@@ -16,7 +16,7 @@ The program demonstrates structured programming using modular methods, loops, an
 ## How to Run
 1. Ensure you have [Java JDK](https://www.oracle.com/java/technologies/downloads/) installed.
 2. Clone this repository:
-   `git clone https://github.com/AbdelhadiBarakat/grade-statistics.git`
+   `git clone https://github.com/abdelhadibarakat/grade-statistics.git`
 3. Navigate to the folder:
    `cd grade-statistics`
 4. Compile the program:
