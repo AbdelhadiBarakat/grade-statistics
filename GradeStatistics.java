@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class GradeStatistics {
 
     // =========================
-    // Overall Statistics (Global State)
+    // Program Constants
     // =========================
 
     static int overallMin = Integer.MAX_VALUE;
